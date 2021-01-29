@@ -1,0 +1,9 @@
+{
+	"ip":"StoneGasn.aternos.me",
+	"port": 25710,
+	"name": "Bot 20",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register M1hay892",
+	"login-cmd":"/login M1hay892"
+}
